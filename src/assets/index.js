@@ -37,9 +37,10 @@ import iocl from "./company/iocl.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-
+import ciphor_bot from "./Ciphor_bot.png";
 
 export {
+  ciphor_bot,
   profile_pic,
   goldenflitch,
   iocl,
