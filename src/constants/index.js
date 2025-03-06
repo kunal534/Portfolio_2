@@ -22,6 +22,7 @@ import {
   iocl,
   digimantra,
   goldenflitch,
+  ciphor_bot,
 } from "../assets";
 
 export const navLinks = [
@@ -176,7 +177,7 @@ const projects = [
         color: "orange-text-gradient",
       },
     ],
-    image: carrent,
+    image: ciphor_bot,
     source_code_link: "https://github.com/kunal534/Chat_bot",
   },
   {
