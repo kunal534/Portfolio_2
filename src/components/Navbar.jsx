@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { FaLinkedin } from "react-icons/fa"; 
+import { TbBrandLeetcode } from "react-icons/tb";
 
 import { styles } from "../styles";
 import { navLinks } from "../constants";
@@ -56,6 +57,13 @@ const Navbar = () => {
           >
             <FaLinkedin size={24} />
           </a>
+          <a 
+            href="https://leetcode.com/u/kunaluttam20/"
+            target="_blank"
+            rel="noopener noreferrer"
+            >
+            <TbBrandLeetcode size={24} />
+            </a>
         </div>
 
         <ul className="list-none hidden sm:flex flex-row gap-10">
