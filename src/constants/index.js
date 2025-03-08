@@ -178,7 +178,7 @@ const projects = [
       },
     ],
     image: ciphor_bot,
-    source_code_link: "https://github.com/kunal534/Chat_bot",
+    source_code_link: "https://ciphor-bot.vercel.app",
   },
   {
     name: "Block Reward",
